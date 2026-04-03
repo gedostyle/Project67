@@ -1,0 +1,10 @@
+# ESP-IDF generated files
+build/
+sdkconfig
+sdkconfig.old
+dependencies.lock
+managed_components/
+
+# System files
+.DS_Store
+.vscode/
